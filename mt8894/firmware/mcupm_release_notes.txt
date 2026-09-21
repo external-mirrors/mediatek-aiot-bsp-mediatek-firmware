@@ -3,6 +3,4 @@
 # Version 1.0
 1. Initial release.
 a9f513578777b1a1f9660892c06e5f97 *mcupm.bin.gz
-c35cd4d4b05d0d62cb7a88a4a4ed725f *mcupm.bin (uncompressed, 488243 bytes)
-mcupm commit: 8429febf9aee51e8850cec82f9c2e75c736e830a
-common commit: 67e459ff6c949b0c088b34214f9d26a29102bb34
+recipe commit: 417719979a15b738d00d0c672de2a0b5fd4ab711
