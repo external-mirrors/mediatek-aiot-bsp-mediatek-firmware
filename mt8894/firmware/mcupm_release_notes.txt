@@ -1,5 +1,10 @@
 ** Build from MediaTek Internal **
 
+# Version 1.1
+1. Modify MCUPM thermal throttle point temp from 95 to 105
+883e7957eb6b1ef5a8017af4a72b5715 *mcupm.bin.gz
+recipe commit: d697108c11537f056b0f4e50d28180468410d770
+
 # Version 1.0
 1. Initial release.
 a9f513578777b1a1f9660892c06e5f97 *mcupm.bin.gz
